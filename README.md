@@ -48,12 +48,12 @@ from each datasets.
 ## Training result
 History accuracy 
 
-<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png" width="300">
+<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png" width="700">
 
 History loss
 
-<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png" width="300">
+<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png" width="700">
 
 Heatmap confusion matrix
 
-<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/confusionat.png" width="300">
+<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/confusionat.png" width="700">
