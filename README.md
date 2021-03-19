@@ -46,5 +46,5 @@ from each datasets.
 
 
 ## Training result
-![History accuracy](.\img\accurancy.png)
-![History loss](.\img\loss.png)
+![History accuracy](https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png)
+![History loss](https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/loss.png)
