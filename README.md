@@ -56,4 +56,4 @@ History loss
 
 Heatmap confusion matrix
 
-<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/confusionnat.png" width="300">
+<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/confusionat.png" width="300">
