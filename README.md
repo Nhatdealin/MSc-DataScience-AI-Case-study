@@ -46,5 +46,6 @@ from each datasets.
 
 
 ## Training result
-![History accuracy](https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png){:height="50%" width="50%"}
-![History loss](https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/loss.png ){:height="50%" width="50%"}
+![History accuracy](https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png) with <img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png" width="100" height="100">
+
+![History loss](https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/loss.png )<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png" width="100" height="100">
