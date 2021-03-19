@@ -46,4 +46,5 @@ from each datasets.
 
 
 ## Training result
-![History accuracy](.\img\accuracy.png)
+![History accuracy](.\img\accurancy.png)
+![History loss](.\img\loss.png)
