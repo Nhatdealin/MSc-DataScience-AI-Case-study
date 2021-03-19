@@ -3,7 +3,7 @@
 ***MSc1 Data Science and AI - Case-study class***
 
 
-## Artificial intelligence for animal bone classification
+## Deep learning on animal astragalus boneclassification from archaeological data
 
 
 **Aim**: Based on a database of 2D images taken from meshed 3D models of bones, this study intends
