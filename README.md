@@ -24,7 +24,7 @@ The main steps of the analytical procedure will be the following:
 
 
 ## Abstract
-In recent years, deep learning has achieved great success in many fields, such as computer vision and natural language processing. However, this kind of techniques hasn’t been widely explored in archaeology and specifically, in the classification of animals from bones collected from archaeological sites. As we know, archaeological research is a very specific discipline in its approach to specimens as well as data. The methods used by archaeozoologists to identify animals from bones recovered from archaeological sites are based on a combination of several anatomical and bone measurement criteria. However, many species with very similar morphological characteristics limit the identification of animals at the species level, especially when bones are not well preserved, broken, or fragmented. Therefore, this potential study proposes the development of a new methodological approach based on Deep Learning methods to distinguish morphologically closely related species by specific skeleton parts: Astragalus. Transfern Learning is used with a Resnet18 arquitecture to train 2D images rendered from a 3D astragalus model, achieving accuracy of 0.6 for the classification between 4 classes of the bone.
+In recent years, deep learning has achieved great success in many fields, such as computer vision and natural language processing. However, this kind of techniques hasn’t been widely explored in archaeology and specifically, in the classification of animals from bones collected from archaeological sites. As we know, archaeological research is a very specific discipline in its approach to specimens as well as data. The methods used by archaeozoologists to identify animals from bones recovered from archaeological sites are based on a combination of several anatomical and bone measurement criteria. However, many species with very similar morphological characteristics limit the identification of animals at the species level, especially when bones are not well preserved, broken, or fragmented. Therefore, this potential study proposes the development of a new methodological approach based on Deep Learning methods to distinguish morphologically closely related species by specific skeleton parts: Astragalus. Transfern Learning is used with a **Resnet18** arquitecture to train 2D images rendered from a 3D astragalus model, achieving accuracy of 0.6 for the classification between 4 classes of the bone.
 
 
 ## Summary result
@@ -52,7 +52,7 @@ History accuracy
 
 History loss
 
-<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/accurancy.png" width="700">
+<img src="https://github.com/Nhatdealin/MSc-DataScience-AI-Case-study/blob/master/img/loss.png" width="700">
 
 Heatmap confusion matrix
 
